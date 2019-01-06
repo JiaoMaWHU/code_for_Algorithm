@@ -1,3 +1,5 @@
+package assignment1;
+
 public class PercolationStats {
 
   private double mean = 0.0;

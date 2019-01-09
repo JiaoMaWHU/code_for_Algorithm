@@ -1,2 +1,2 @@
-# code_for_Algorithm
-Code for Algorithm on Coursera
+# Code for Algorithm on Coursera
+Code of Algorithm on Coursera
